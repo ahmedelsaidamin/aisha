@@ -1373,7 +1373,9 @@ body {
   display: none;
 }
 .cid-qK0NSxdkBF {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/20131030-083114-copy-2000x1125.jpg");
 }
 .cid-qK0NSxdkBF .mbr-icofont {
   font-size: 48px;
@@ -1949,7 +1951,7 @@ body {
 .cid-qK1QhOJgCZ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #cc2952;
 }
 .cid-qK1QhOJgCZ .video-block {
   margin: auto;
